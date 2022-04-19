@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Full Stack ML
 - 🤔 I’m looking for help with Data Analytics and Data Science.
 - 💬 Ask me about Chess, Movies and Food..
-- 📫 How to reach me: sushantprabhu120398@gmail.com / Twitter @SP__init__
+- 📫 How to reach me: https://www.linkedin.com/in/sushant-prabhu/
 - ⚡ Fun fact: I love travelling and exploring countries..
 <!--
 **SUSHANT12PRABHU/SUSHANT12PRABHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Analytics and Data Science.
 - 💬 Ask me about Chess, Movies and Food..
 - 📫 How to reach me: sushantprabhu120398@gmail.com / Twitter @SP__init__
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love travelling and exploring countries..
 -->
 
@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
