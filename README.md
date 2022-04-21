@@ -99,7 +99,7 @@ I **transform data into valuable and tangible insights** through data science te
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
         <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important"/>
-        <img src="https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=flat-square&logo=visual-studio-code&color=blue&labelColor=white"/>
+        <img src="https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=flat-square&logo=visual-studio-code&labelColor=blue"/>
       </div>
     </td>
   </tr>
