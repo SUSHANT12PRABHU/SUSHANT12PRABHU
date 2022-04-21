@@ -90,16 +90,20 @@ I **transform data into valuable and tangible insights** through data science te
   </tr>
   <tr>
     <td valign="middle">
-      <span>Version Control</span>
+      <span>Version Control & Editors</span>
     </td>
     <td valign="middle">
       <div float="left">
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=blue"/>
+        <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=black"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+        <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important"/>
+        <img src="https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=for-the-badge&logo=visual-studio-code&color=blue&labelColor=green"/>
       </div>
     </td>
   </tr>
+  
 </table>
 
 <!--
@@ -111,6 +115,7 @@ I **transform data into valuable and tangible insights** through data science te
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important)
+![Visual Studio Code] (https://img.shields.io/badge/visual_studio_code-%23575757.svg?style=for-the-badge&logo=visual-studio-code&color=blue&labelColor=green)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
