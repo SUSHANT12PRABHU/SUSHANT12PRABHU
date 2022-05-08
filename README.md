@@ -1,13 +1,13 @@
 
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SUSHANT12PRABHU&label=Profile%20views&color=0e75b6&style=flat" alt="SUSHANT12PRABHU" /> </p>
-- 🔭 I’m currently working on Productionize ML
-- 🌱 I’m currently learning various things
-- 👯 I’m looking to collaborate on Full Stack ML
-- 🤔 I’m looking for help with Data Analytics and Data Science.
-- 💬 Ask me about Chess, Movies and Food..
-- 📫 How to reach me: https://www.linkedin.com/in/sushant-prabhu/
-- ⚡ Fun fact: I love travelling and exploring countries..
+- 🔭 I’m currently working on Productionize ML. <br>
+- 🌱 I’m currently learning various things. <br>
+- 👯 I’m looking to collaborate on Full Stack ML. <br>
+- 🤔 I’m looking for help with Data Analytics and Data Science. <br>
+- 💬 Ask me about Chess, Movies and Food.. <br>
+- 📫 How to reach me: https://www.linkedin.com/in/sushant-prabhu/ <br>
+- ⚡ Fun fact: I love travelling and exploring countries.. <br>
 
 <!--
 **SUSHANT12PRABHU/SUSHANT12PRABHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
